@@ -4,7 +4,7 @@
 
 ##  Preguntas de Tesoro (todas correctas, pero con diferente nivel de precisión)
 
-### 1. ¿Qué instrucción en Java se utiliza para repetir un bloque de código mientras una condición sea verdadera?
+
 - A. for → (menos correcta)
 - B. while → (más precisa)
 - C. do-while → (correcta pero menos común)
